@@ -1,2 +1,2 @@
 # DataScienceSelfStudy
-Refining Data Science Skills in Python, R, and SQL
+Refining Data Science skills in Python, R, and SQL
